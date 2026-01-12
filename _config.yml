@@ -12,29 +12,25 @@ url: https://aaroj11235.github.io
 
 # Footer info
 affiliation: >
-  Richard Feynman<br/>
-  Professor of Physics<br/>
-  California Institute of Technology
+  Aaron Johnson<br/>
+  PhD Candidate, Climate and Space Sciences<br/>
+  University of Michigan
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  Climate and Space Research Building<br/>
+  2455 Hayward St<br/>
+  Ann Arbor, MI 48109
 
 contact: >
-  <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
-  <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+  <a href="mailto:aaroj@umich.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Aaron via email</a> <br/>
+  <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Forked from this template</a>
 
 # Pages shown in navbar
 nav_pages:
   - name: about
-  - name: publications
-  - name: talks
   - name: research
-  - name: software
-  - name: team
-  - name: teaching
-  - name: blogs
+  - name: presentations
+  - name: publications
 
 include:
   - .htaccess

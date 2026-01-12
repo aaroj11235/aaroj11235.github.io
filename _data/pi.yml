@@ -1,17 +1,17 @@
-- name: Dr. Richard Feynman
+- name: Aaron M. Johnson
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
+  info: Graduate Student Research Assistant, University of Michigan
+  email: aaroj@umich.edu
+  github: https://github.com/aaroj11235/
   researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  scholar: https://scholar.google.com/
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2025) M.S. Climate and Space Sciences, University of Michigan",
+      "(2023) B.A. Physics, Gustavus Adolphus College",
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(2025) M.S. Climate and Space Sciences, University of Michigan", "(2023) B.A. Physics, Climate and Space Sciences"]

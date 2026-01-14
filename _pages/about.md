@@ -19,9 +19,8 @@ permalink: /about/
   <h4><i>{{ member.info }}</i></h4>
   {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-3x"></i></a> {% endif %}
   {% if member.cv %} <a href="{{ site.url }}{{ site.baseurl }}/{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> {% endif %}
-  {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a> {% endif %}
+  {% if member.linkedin %} <a href="{{ member.linkedin }}" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a> {% endif %}
   {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> {% endif %}
-  {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-3x"></i></a> {% endif %}
 
   <ul style="overflow: hidden">
     {% for education in member.education %}
@@ -33,6 +32,14 @@ permalink: /about/
 </div>
 </div>
 {% endfor %}
+
+<div class="jumbotron">
+I am a PhD candidate in the Climate and Space Sciences and Engineering department at the University of Michigan researching the representation of the stratospheric climate in atmospheric models. I am a member of the <a href ="https://admg.engin.umich.edu/" target="_blank">Atmospheric Dynamics Modeling Group</a>. My faculty advisors are Christiane Jablonowski and Mark Flanner.
+
+I have a bachelor's degree in physics from Gustavus Adolphus College in St. Peter, MN. I conducted undergraduate research at the University of Michigan as part of the Program in Climate and Space Science Observation (PICASSO).
+
+I am an avid trumpet player, having performed in the U.S. and abroad as a member of various ensembles. I also enjoy gardening, hiking, and cycling.
+</div>
 
 {% if site.data.grants %}
 

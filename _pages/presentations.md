@@ -42,6 +42,6 @@ permalink: /presentations/
 <div class = "jumbotron">
 <h3>Papers</h3>
   <ol>
-    <li>Johnson, A.M., Flanner, M.G., & Jablonowski, C. (2026). Understanding the response of the Quasi-Biennial Oscillation to carbon dioxide and sea surface temperature increases in aqua-planet simulations. *Journal of Geophysical Research: Atmospheres*, 131, e2025JD045481. https://doi.org/10.1029/2025JD045481 <a href="{{ site.url }}{{ site.baseurl }}/papers/JGR Atmospheres - 2026 - Johnson - Understanding the Response of the Quasi‐Biennial Oscillation to Carbon Dioxide and Sea.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a></li>
+    <li>Johnson, A.M., Flanner, M.G., & Jablonowski, C. (2026). Understanding the response of the Quasi-Biennial Oscillation to carbon dioxide and sea surface temperature increases in aqua-planet simulations. <i>Journal of Geophysical Research: Atmospheres</i>, 131, e2025JD045481. https://doi.org/10.1029/2025JD045481 <a href="{{ site.url }}{{ site.baseurl }}/papers/JGR Atmospheres - 2026 - Johnson - Understanding the Response of the Quasi‐Biennial Oscillation to Carbon Dioxide and Sea.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a></li>
   </ol>
 </div>
